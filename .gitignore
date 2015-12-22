@@ -1,3 +1,4 @@
 tests/unit/result/*
+tests/_helpers/_generated
 vendor
 .idea
